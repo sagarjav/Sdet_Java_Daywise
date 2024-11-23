@@ -1,7 +1,5 @@
 package day01;
 
-import io.opentelemetry.exporter.logging.SystemOutLogRecordExporter;
-
 public class firstProgram {
 	
 	
